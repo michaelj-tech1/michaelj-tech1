@@ -2,19 +2,22 @@
 
 ###
 
+<!-- STATS & TOP LANGS SIDE BY SIDE, SAME DIMENSIONS -->
 <div align="center">
   <!-- GitHub Stats Card -->
   <img 
-       src="https://github-readme-stats.vercel.app/api?username=michaelj-tech1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" 
-       height="150" 
-       alt="stats graph" 
+    src="https://github-readme-stats.vercel.app/api?username=michaelj-tech1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false"
+    height="195" 
+    width="420" 
+    alt="stats graph" 
   />
   
-  <!-- Top Languages Card (manually hidden languages) -->
+  <!-- Top Languages Card (hiding everything except Java, Python, and C#) -->
   <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelj-tech1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=dracula&hide_border=false&hide=css,html,javascript,scss,typescript,php&custom_title=My%20Top%20Languages" 
-       height="150" 
-       alt="languages graph" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelj-tech1&layout=compact&theme=dracula&hide_border=false&langs_count=3&hide=css,html,javascript,scss,typescript,php,c,cpp&custom_title=Java%2C%20Python%2C%20C%23"
+    height="195" 
+    width="420"
+    alt="top languages" 
   />
 </div>
 
@@ -22,10 +25,10 @@
 
 <!-- Right-aligned fun GIF -->
 <img 
-     align="right" 
-     height="150" 
-     src="https://private-user-images.githubusercontent.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif" 
-     alt="fun gif" 
+  align="right" 
+  height="150" 
+  src="https://private-user-images.githubusercontent.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif" 
+  alt="fun gif" 
 />
 
 ###
@@ -69,7 +72,10 @@
 
 <br clear="both">
 
-<!-- Try pointing to the actual snake.svg in your output branch -->
-<img src="https://github.com/michaelj-tech1/michaelj-tech1/blob/output/snake.svg" alt="Snake animation" />
+<!-- Make sure your GitHub Action actually generates "snake.svg" in the "output" branch -->
+<img 
+  src="https://raw.githubusercontent.com/michaelj-tech1/michaelj-tech1/output/snake.svg" 
+  alt="Snake animation" 
+/>
 
 ###
