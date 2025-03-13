@@ -13,10 +13,14 @@
   />
   
   <!-- Top Languages Card (default config) -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelj-tech1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false"
-    height="195"
-    alt="languages graph" 
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelj-tech1
+         &layout=compact
+         &card_width=270
+         &langs_count=5
+         &theme=dracula
+         &hide_border=false"
+    alt="languages graph"
   />
   
 </div>
