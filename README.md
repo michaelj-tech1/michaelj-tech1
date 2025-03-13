@@ -51,7 +51,3 @@
 <img src="https://raw.githubusercontent.com/michaelj-tech1/michaelj-tech1/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<img src="https://raw.githubusercontent.com/michaelj-tech1/michaelj-tech1/output/snake.svg" alt="Snake animation" />
-
-###
