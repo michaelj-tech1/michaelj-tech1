@@ -2,23 +2,23 @@
 
 ###
 
-<!-- STATS & TOP LANGS SIDE BY SIDE, SAME DIMENSIONS -->
-<div align="center">
+<!-- STATS & TOP LANGS SIDE BY SIDE -->
+<div align="center" style="display: flex; justify-content: center;">
+  
   <!-- GitHub Stats Card -->
   <img 
     src="https://github-readme-stats.vercel.app/api?username=michaelj-tech1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false"
     height="195" 
-    width="420" 
     alt="stats graph" 
   />
   
-  <!-- Top Languages Card (hiding everything except Java, Python, and C#) -->
+  <!-- Top Languages Card (default config) -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelj-tech1&layout=compact&theme=dracula&hide_border=false&langs_count=3&hide=css,html,javascript,scss,typescript,php,c,cpp&custom_title=Java%2C%20Python%2C%20C%23"
-    height="195" 
-    width="420"
-    alt="top languages" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelj-tech1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false"
+    height="195"
+    alt="languages graph" 
   />
+  
 </div>
 
 ###
@@ -61,10 +61,18 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img 
+      src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" 
+      height="35" 
+      alt="linkedin logo"  
+    />
   </a>
   <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img 
+      src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" 
+      height="35" 
+      alt="gmail logo"  
+    />
   </a>
 </div>
 
