@@ -3,13 +3,30 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=michaelj-tech1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelj-tech1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="100" alt="languages graph"  />
+  <!-- GitHub Stats Card -->
+  <img 
+       src="https://github-readme-stats.vercel.app/api?username=michaelj-tech1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" 
+       height="150" 
+       alt="stats graph" 
+  />
+  
+  <!-- Top Languages Card (manually hidden languages) -->
+  <img 
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelj-tech1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=dracula&hide_border=false&hide=css,html,javascript,scss,typescript,php&custom_title=My%20Top%20Languages" 
+       height="150" 
+       alt="languages graph" 
+  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://private-user-images.githubusercontent.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDE4MjQxMzUsIm5iZiI6MTc0MTgyMzgzNSwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzMtZmRkY2RiY2QtNWVhMi00NDE2LTlmNTktY2E3ZmQ5Mzk0YWNhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzEyVDIzNTcxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTRiNGYzNTkyOWZhZDRjMjRhYTJmNmNkYzZmMDQ0YzE1OTk5ZTQ0NjUxYjI4YmMwNTQ4NDllYzlhYmNlYTE3ZmYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.X-4tQotriEsKSiYj-um7Qi-9p9q_Dr_GMQSzz6_34-c"  />
+<!-- Right-aligned fun GIF -->
+<img 
+     align="right" 
+     height="150" 
+     src="https://private-user-images.githubusercontent.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif" 
+     alt="fun gif" 
+/>
 
 ###
 
@@ -40,14 +57,19 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/michaelj-tech1/michaelj-tech1/output/snake.svg" alt="Snake animation" />
+<!-- Try pointing to the actual snake.svg in your output branch -->
+<img src="https://github.com/michaelj-tech1/michaelj-tech1/blob/output/snake.svg" alt="Snake animation" />
 
 ###
