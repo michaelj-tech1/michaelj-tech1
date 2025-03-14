@@ -4,7 +4,7 @@
 
 ### About Me
 - 🎓 **B.S. in Computer Science, expected May 2026**
-- 🇺🇸 **4-year U.S. Marine Corps veteran (spent 6 months stationed in Japan)**
+- 🇺🇸 **4-year U.S. Marine Corps veteran (spent 6 months deployed to Japan)**
 - ⚙️ **Focused on** building software solutions, exploring systems & networks, and continuously growing in tech
 - ⚡ **Hobbies**: Riding dirt bikes, paintballing, gaming, and exploring the outdoors
 
