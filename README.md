@@ -3,11 +3,11 @@
 ---
 
 ### About Me
-- 🎓 **BS in Computer Science**, graduating soon.
-- 🇺🇸 **Military Service**: Served 4 years in the U.S. Marine Corps.
-- ⚙️ **Passionate About**: Building software solutions, leveraging systems and networks, and exploring diverse opportunities in tech.
-- 🌏 **Travel**: Spent 6 months in Japan—an incredible experience!
-- ⚡ **Hobbies**: Riding dirt bikes, paintballing, playing video games, and exploring the outdoors.
+- 🎓 **B.S. in Computer Science**, graduating soon
+- 🇺🇸 **4-year U.S. Marine Corps veteran**
+- ⚙️ **Driven** to build software solutions, explore systems & networks, and grow in tech
+- 🌏 **Travel**: Spent 6 months in Japan—an incredible experience
+- ⚡ **Hobbies**: Riding dirt bikes, paintballing, gaming, and exploring the outdoors
 
 ---
 
@@ -67,6 +67,7 @@
 
 ### Popular Repositories
 
-- [**CSC324-Week-6-Assignment-Michael-Bowen**](https://github.com/michaelj-tech1/CSC324-Week-6-Assignment-Michael-Bowen) — *Forked from jrandi/CSC324-Week-6-Assignment. Language: Java.*
-- [**michaelj-tech1**](https://github.com/michaelj-tech1/michaelj-tech1) — *Hello world, this is my profile!*
-
+- [**CSC324-Week-6-Assignment-Michael-Bowen**](https://github.com/michaelj-tech1/CSC324-Week-6-Assignment-Michael-Bowen)  
+  *Forked from jrandi/CSC324-Week-6-Assignment. Language: Java.*
+- [**michaelj-tech1**](https://github.com/michaelj-tech1/michaelj-tech1)  
+  *Hello world, this is my profile!*
