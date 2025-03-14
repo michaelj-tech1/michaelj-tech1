@@ -3,10 +3,9 @@
 ---
 
 ### About Me
-- 🎓 **B.S. in Computer Science**, graduating soon
-- 🇺🇸 **4-year U.S. Marine Corps veteran**
-- ⚙️ **Driven** to build software solutions, explore systems & networks, and grow in tech
-- 🌏 **Travel**: Spent 6 months in Japan—an incredible experience
+- 🎓 **B.S. in Computer Science, expected May 2026**
+- 🇺🇸 **4-year U.S. Marine Corps veteran (spent 6 months stationed in Japan)**
+- ⚙️ **Focused on** building software solutions, exploring systems & networks, and continuously growing in tech
 - ⚡ **Hobbies**: Riding dirt bikes, paintballing, gaming, and exploring the outdoors
 
 ---
