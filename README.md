@@ -2,19 +2,15 @@
 
 ---
 
-<!-- A short intro about who you are and your background. -->
 ### About Me
 - 🎓 **BS in Computer Science**, graduating soon.
-- 💼 **Career Interests**: 
-  - **Software Engineer** (primary goal)  
-  - **SysAdmin** or **Network Engineer** (if SE roles aren't available)
-- 🇺🇸 **Military Service**: Proudly served 4 years in the U.S. Marine Corps.
-- 🌏 **Travel**: Spent 6 months in Japan—an incredible experience.
+- 🇺🇸 **Military Service**: Served 4 years in the U.S. Marine Corps.
+- ⚙️ **Passionate About**: Building software solutions, leveraging systems and networks, and exploring diverse opportunities in tech.
+- 🌏 **Travel**: Spent 6 months in Japan—an incredible experience!
 - ⚡ **Hobbies**: Riding dirt bikes, paintballing, playing video games, and exploring the outdoors.
 
 ---
 
-<!-- GitHub Stats cards -->
 <div align="center">
   <img 
        src="https://github-readme-stats.vercel.app/api?username=michaelj-tech1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" 
@@ -31,7 +27,6 @@
 
 ---
 
-<!-- Skills & Tools -->
 ### Technologies & Tools
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
@@ -49,10 +44,9 @@
 
 ---
 
-<!-- Contact Info -->
 ### Get in Touch
 <div>
-  <!-- Make sure to replace YOUR_LINKEDIN_URL and YOUR_EMAIL_ADDRESS with your actual links. -->
+  <!-- Replace these placeholders with your actual links. -->
   <a href="YOUR_LINKEDIN_URL" target="_blank">
     <img 
       src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" 
@@ -71,10 +65,8 @@
 
 ---
 
-<!-- Your original projects section references the "Popular Repositories" area -->
 ### Popular Repositories
 
 - [**CSC324-Week-6-Assignment-Michael-Bowen**](https://github.com/michaelj-tech1/CSC324-Week-6-Assignment-Michael-Bowen) — *Forked from jrandi/CSC324-Week-6-Assignment. Language: Java.*
 - [**michaelj-tech1**](https://github.com/michaelj-tech1/michaelj-tech1) — *Hello world, this is my profile!*
 
-<!-- If you’d like, add more repos or details here. Otherwise, leave as is. -->
