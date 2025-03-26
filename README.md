@@ -68,7 +68,7 @@
 
 ### Popular Repositories
 
-- [**CSC324-Week-6-Assignment-Michael-Bowen**](https://github.com/michaelj-tech1/CSC324-Week-6-Assignment-Michael-Bowen)  
-  *Forked from jrandi/CSC324-Week-6-Assignment. Language: Java.*
+- [**steam-registration-tool**](https://github.com/michaelj-tech1/CSC324-Week-6-Assignment-Michael-Bowen)  
+  Language: Java.*
 - [**michaelj-tech1**](https://github.com/michaelj-tech1/michaelj-tech1)  
   *Hello world, this is my profile!*
