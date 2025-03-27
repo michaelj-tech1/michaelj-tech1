@@ -12,7 +12,7 @@
 
 <div align="center">
   <img 
-       src="https://github-readme-stats.vercel.app/api?username=michaelj-tech1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" 
+       src="https://github-readme-stats.vercel.app/api?username=michaelj-tech1&cache_seconds=1800&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" 
        height="125" 
        alt="stats graph" 
        style="margin-right: 12px;"
