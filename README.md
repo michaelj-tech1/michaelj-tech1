@@ -68,7 +68,8 @@
 
 ### Popular Repositories
 
-- [**steam-registration-tool**](https://github.com/michaelj-tech1/CSC324-Week-6-Assignment-Michael-Bowen)  
-  Language: Java.*
-- [**michaelj-tech1**](https://github.com/michaelj-tech1/michaelj-tech1)  
-  *Hello world, this is my profile!*
+- [**battlenet-registration-automation**](https://github.com/michaelj-tech1/battlenet-registration-automation)  
+  Language: Python. Fully automated, multithreaded tool for Battle.net account registration.
+- [**personal-vpn**](https://github.com/michaelj-tech1/personal-vpn)  
+  Language: Python. Deployed and managed a secure personal VPN infrastructure using OpenVPN.
+
