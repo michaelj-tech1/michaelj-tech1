@@ -11,13 +11,13 @@
 
 <div align="center">
   <img 
-       src="https://github-readme-stats.vercel.app/api?username=michaelj-tech1&cache_seconds=	86400&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" 
+       src="https://github-readme-stats.vercel.app/api?username=michaelj-tech1&cache_seconds=86400&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" 
        height="125" 
        alt="stats graph" 
        style="margin-right: 12px;"
   />
   <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelj-tech1&cache_seconds=	86400&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=dracula&hide_border=false" 
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelj-tech1&cache_seconds=86400&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=dracula&hide_border=false" 
        height="125" 
        alt="languages graph" 
   />
