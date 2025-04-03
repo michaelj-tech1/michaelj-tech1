@@ -7,7 +7,6 @@
 - 🏅 **4-year U.S. Marine Corps veteran (spent 6 months deployed to Japan)**
 - ⚙️ **Focused on** building software solutions, exploring systems & networks, and continuously growing in tech
 - ⚡ **Hobbies**: Riding dirt bikes, paintballing, gaming, and exploring the outdoors
-
 ---
 
 <div align="center">
