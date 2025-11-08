@@ -23,7 +23,7 @@ I’m **Michael Bowen**, a soon-to-be **Computer Science graduate** and **U.S. M
 
 ---
 
-### 🧰 Technologies & Tools
+### 🧠 Languages
 
 <table align="center">
   <tr>
@@ -40,13 +40,19 @@ I’m **Michael Bowen**, a soon-to-be **Computer Science graduate** and **U.S. M
       <img src="https://skillicons.dev/icons?i=cs" width="45" height="45" alt="C#" /><br>C#
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="55" height="55" alt="REST API" /><br>REST APIs
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" height="45" alt="Bash" /><br>Bash
     </td>
+  </tr>
+</table>
+
+---
+
+### 🧰 Tools & Platforms
+
+<table align="center">
+  <tr>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/linux-icon.svg" width="55" height="55" alt="Linux" /><br>Linux
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="55" height="55" alt="MySQL" /><br>MySQL
+      <img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="Linux" /><br>Linux
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=nginx" width="45" height="45" alt="NGINX" /><br>NGINX
@@ -56,6 +62,53 @@ I’m **Michael Bowen**, a soon-to-be **Computer Science graduate** and **U.S. M
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=aws" width="45" height="45" alt="AWS" /><br>AWS
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL" /><br>MySQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55" height="45" alt="Docker" /><br>Docker
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" /><br>Git
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub" /><br>GitHub
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VSCode" /><br>VSCode
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Slurm_logo.svg" width="55" height="45" alt="Slurm" /><br>Slurm
+    </td>
+    <td align="center" width="90">
+      <img src="https://openondemand.org/wp-content/uploads/2021/05/open-ondemand-logo.png" width="55" height="45" alt="Open OnDemand" /><br>Open OnDemand
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="Postman" /><br>Postman
+    </td>
+    <td align="center" width="90">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/OpenVPN_logo.svg" width="55" height="45" alt="OpenVPN" /><br>OpenVPN
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="45" height="45" alt="Selenium" /><br>Selenium
+    </td>
+    <td align="center" width="90">
+      <img src="https://playwright.dev/img/playwright-logo.svg" width="55" height="45" alt="Playwright" /><br>Playwright
+    </td>
+    <td align="center" width="90">
+      <img src="https://upload.wikimedia.org/wikipedia/en/4/4d/Charlesproxy_logo.png" width="45" height="45" alt="Charles Proxy" /><br>Charles Proxy
+    </td>
+    <td align="center" width="90">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Webmin_logo.svg" width="55" height="45" alt="Webmin" /><br>Webmin
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" height="45" alt="Flask" /><br>Flask
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React" /><br>React
     </td>
   </tr>
 </table>
@@ -97,9 +150,9 @@ I’m **Michael Bowen**, a soon-to-be **Computer Science graduate** and **U.S. M
 
 ---
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <p align="center">
      <img width="98%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=140&section=footer"/>
 </p>
-
