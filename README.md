@@ -15,35 +15,34 @@ I’m **Michael Bowen**, a soon-to-be **Computer Science graduate** and **U.S. M
 
 ---
 
-<div align="center">  
-    <a href="https://github.com/michaelj-tech1">
-      <img src="https://github-trophies.vercel.app/?username=michaelj-tech1&theme=onestar&no-frame=true&column=6&row=2" alt="GitHub Trophies"/>
-    </a>
+<div align="center">
+  <a href="https://github.com/michaelj-tech1">
+    <img src="https://github-trophies.vercel.app/?username=michaelj-tech1&theme=onestar&no-frame=true&column=6&row=2" alt="GitHub Trophies"/>
+  </a>
 </div>
 
 ---
 
 ### 🧠 Languages
-
 <table align="center">
   <tr>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="55" height="55" alt="Python" /><br>Python
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="55" height="55" alt="Python"/><br>Python
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="Java" /><br>Java
+      <img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="Java"/><br>Java
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=c" width="45" height="45" alt="C" /><br>C
+      <img src="https://skillicons.dev/icons?i=c" width="45" height="45" alt="C"/><br>C
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=cs" width="45" height="45" alt="C#" /><br>C#
+      <img src="https://skillicons.dev/icons?i=cs" width="45" height="45" alt="C#"/><br>C#
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=javascript" width="45" height="45" alt="JavaScript" /><br>JavaScript
+      <img src="https://skillicons.dev/icons?i=javascript" width="45" height="45" alt="JavaScript"/><br>JavaScript
     </td>
     <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" height="45" alt="Bash" /><br>Bash
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" height="45" alt="Bash"/><br>Bash
     </td>
   </tr>
 </table>
@@ -51,65 +50,28 @@ I’m **Michael Bowen**, a soon-to-be **Computer Science graduate** and **U.S. M
 ---
 
 ### 🧰 Tools & Platforms
-
 <table align="center">
   <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="Linux" /><br>Linux
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nginx" width="45" height="45" alt="NGINX" /><br>NGINX
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=ansible" width="45" height="45" alt="Ansible" /><br>Ansible
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=aws" width="45" height="45" alt="AWS" /><br>AWS
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL" /><br>MySQL
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" /><br>Git
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub" /><br>GitHub
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VSCode" /><br>VSCode
-    </td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="Linux"/><br>Linux</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nginx" width="45" height="45" alt="NGINX"/><br>NGINX</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=ansible" width="45" height="45" alt="Ansible"/><br>Ansible</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=aws" width="45" height="45" alt="AWS"/><br>AWS</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL"/><br>MySQL</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/><br>Git</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/><br>GitHub</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VSCode"/><br>VSCode</td>
   </tr>
   <tr>
-    <td align="center" width="90">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Slurm_logo.svg" width="55" height="45" alt="Slurm" /><br>Slurm
-    </td>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/OSC/ondemand/main/apps/dashboard/public/favicon.ico" width="45" height="45" alt="Open OnDemand" /><br>Open OnDemand
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="Postman" /><br>Postman
-    </td>
-    <td align="center" width="90">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/OpenVPN_logo.svg" width="55" height="45" alt="OpenVPN" /><br>OpenVPN
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="45" height="45" alt="Selenium" /><br>Selenium
-    </td>
-    <td align="center" width="90">
-      <img src="https://playwright.dev/img/playwright-logo.svg" width="55" height="45" alt="Playwright" /><br>Playwright
-    </td>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/alrra/browser-logos/main/src/chrome/chrome.svg" width="45" height="45" alt="Fiddler" /><br>Fiddler
-    </td>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/wiki/xcharlesproxy/images/charles-icon.png" width="45" height="45" alt="Charles Proxy" /><br>Charles Proxy
-    </td>
-    <td align="center" width="90">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Webmin_logo.png" width="55" height="45" alt="Webmin" /><br>Webmin
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" height="45" alt="Flask" /><br>Flask
-    </td>
+    <td align="center" width="90"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Slurm_logo.svg" width="55" height="45" alt="Slurm"/><br>Slurm</td>
+    <td align="center" width="90"><img src="https://avatars.githubusercontent.com/u/11400646?s=200&v=4" width="45" height="45" alt="Open OnDemand"/><br>Open OnDemand</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="Postman"/><br>Postman</td>
+    <td align="center" width="90"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/OpenVPN_logo.svg" width="55" height="45" alt="OpenVPN"/><br>OpenVPN</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="45" height="45" alt="Selenium"/><br>Selenium</td>
+    <td align="center" width="90"><img src="https://playwright.dev/img/playwright-logo.svg" width="55" height="45" alt="Playwright"/><br>Playwright</td>
+    <td align="center" width="90"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Fiddler_Everywhere_logo.png" width="45" height="45" alt="Fiddler"/><br>Fiddler</td>
+    <td align="center" width="90"><img src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png" width="45" height="45" alt="Charles Proxy"/><br>Charles Proxy</td>
+    <td align="center" width="90"><img src="https://user-images.githubusercontent.com/44777/171915883-2f0e7d16-b3f8-4ce0-a1c7-9118d9ef63e7.png" width="45" height="45" alt="Webmin"/><br>Webmin</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" height="45" alt="Flask"/><br>Flask</td>
   </tr>
 </table>
 
@@ -117,23 +79,14 @@ I’m **Michael Bowen**, a soon-to-be **Computer Science graduate** and **U.S. M
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img 
-       src="https://github-readme-stats.vercel.app/api?username=michaelj-tech1&cache_seconds=86400&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" 
-       height="150" 
-       alt="Michael's GitHub Stats"
-       style="margin-right: 12px;"
-  />
-  <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelj-tech1&cache_seconds=86400&layout=compact&langs_count=6&theme=dracula&hide_border=false" 
-       height="150" 
-       alt="Top Languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=michaelj-tech1&cache_seconds=86400&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="Michael's GitHub Stats" style="margin-right:12px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelj-tech1&cache_seconds=86400&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" alt="Top Languages"/>
 </div>
 
 ---
 
 ### 🌍 Connect With Me
-<div align="center" style="display: flex; gap: 10px; justify-content: center;">
+<div align="center" style="display:flex;gap:10px;justify-content:center;">
   <a href="https://www.linkedin.com/in/michael-bowen-287558210/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn"/>
   </a>
@@ -154,5 +107,5 @@ I’m **Michael Bowen**, a soon-to-be **Computer Science graduate** and **U.S. M
 ![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <p align="center">
-     <img width="98%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=140&section=footer"/>
+  <img width="98%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=140&section=footer"/>
 </p>
