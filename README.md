@@ -7,8 +7,8 @@ I’m **Michael Bowen**, a soon-to-be **Computer Science graduate** and **U.S. M
 ---
 
 ### 🎯 What I Do
-🔹 **Software Development** — Python, C#, Java, C, and systems programming  
-🔹 **Automation & Tools** — Web automation, network utilities, and multi-threaded applications  
+🔹 **Software Development** — Python, C#, Java, C, JavaScript, and systems programming  
+🔹 **Automation & Tools** — Web automation, network utilities, and multithreaded applications  
 🔹 **Infrastructure & Cloud** — Linux systems, NGINX, AWS, and Ansible  
 🔹 **Networking & Security** — VPN configuration, automation, and backend services  
 🔹 **Continuous Learning** — Exploring low-level systems, backend architecture, and DevOps  
@@ -40,6 +40,9 @@ I’m **Michael Bowen**, a soon-to-be **Computer Science graduate** and **U.S. M
       <img src="https://skillicons.dev/icons?i=cs" width="45" height="45" alt="C#" /><br>C#
     </td>
     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=javascript" width="45" height="45" alt="JavaScript" /><br>JavaScript
+    </td>
+    <td align="center" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" height="45" alt="Bash" /><br>Bash
     </td>
   </tr>
@@ -67,9 +70,6 @@ I’m **Michael Bowen**, a soon-to-be **Computer Science graduate** and **U.S. M
       <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL" /><br>MySQL
     </td>
     <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55" height="45" alt="Docker" /><br>Docker
-    </td>
-    <td align="center" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" /><br>Git
     </td>
     <td align="center" width="90">
@@ -84,7 +84,7 @@ I’m **Michael Bowen**, a soon-to-be **Computer Science graduate** and **U.S. M
       <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Slurm_logo.svg" width="55" height="45" alt="Slurm" /><br>Slurm
     </td>
     <td align="center" width="90">
-      <img src="https://openondemand.org/wp-content/uploads/2021/05/open-ondemand-logo.png" width="55" height="45" alt="Open OnDemand" /><br>Open OnDemand
+      <img src="https://raw.githubusercontent.com/OSC/ondemand/main/apps/dashboard/public/favicon.ico" width="45" height="45" alt="Open OnDemand" /><br>Open OnDemand
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="Postman" /><br>Postman
@@ -99,16 +99,16 @@ I’m **Michael Bowen**, a soon-to-be **Computer Science graduate** and **U.S. M
       <img src="https://playwright.dev/img/playwright-logo.svg" width="55" height="45" alt="Playwright" /><br>Playwright
     </td>
     <td align="center" width="90">
-      <img src="https://upload.wikimedia.org/wikipedia/en/4/4d/Charlesproxy_logo.png" width="45" height="45" alt="Charles Proxy" /><br>Charles Proxy
+      <img src="https://raw.githubusercontent.com/alrra/browser-logos/main/src/chrome/chrome.svg" width="45" height="45" alt="Fiddler" /><br>Fiddler
     </td>
     <td align="center" width="90">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Webmin_logo.svg" width="55" height="45" alt="Webmin" /><br>Webmin
+      <img src="https://raw.githubusercontent.com/wiki/xcharlesproxy/images/charles-icon.png" width="45" height="45" alt="Charles Proxy" /><br>Charles Proxy
+    </td>
+    <td align="center" width="90">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Webmin_logo.png" width="55" height="45" alt="Webmin" /><br>Webmin
     </td>
     <td align="center" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" height="45" alt="Flask" /><br>Flask
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React" /><br>React
     </td>
   </tr>
 </table>
