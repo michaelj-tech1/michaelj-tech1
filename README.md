@@ -32,7 +32,6 @@ I’m **Michael Bowen**, a soon-to-be **Computer Science graduate** and **U.S. M
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=cs" width="45" height="45" alt="C#"/><br>C#</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=javascript" width="45" height="45" alt="JavaScript"/><br>JavaScript</td>
     <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" height="45" alt="Bash"/><br>Bash</td>
-    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" height="45" alt="Flask"/><br>Flask</td>
   </tr>
 </table>
 
@@ -49,6 +48,8 @@ I’m **Michael Bowen**, a soon-to-be **Computer Science graduate** and **U.S. M
     <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/><br>Git</td>
     <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/><br>GitHub</td>
     <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VSCode"/><br>VSCode</td>
+    <td align="center" width="90"><img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" width="45" height="45" alt="IntelliJ IDEA"/><br>IntelliJ IDEA</td>
+    <td align="center" width="90"><img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" width="45" height="45" alt="PyCharm"/><br>PyCharm</td>
   </tr>
   <tr>
     <td align="center" width="90"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Slurm_logo.svg" width="55" height="45" alt="Slurm"/><br>Slurm</td>
@@ -60,7 +61,10 @@ I’m **Michael Bowen**, a soon-to-be **Computer Science graduate** and **U.S. M
     <td align="center" width="90"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Fiddler_Everywhere_logo.png" width="45" height="45" alt="Fiddler"/><br>Fiddler</td>
     <td align="center" width="90"><img src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png" width="45" height="45" alt="Charles Proxy"/><br>Charles Proxy</td>
     <td align="center" width="90"><img src="https://user-images.githubusercontent.com/44777/171915883-2f0e7d16-b3f8-4ce0-a1c7-9118d9ef63e7.png" width="45" height="45" alt="Webmin"/><br>Webmin</td>
-    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/><br>Docker</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" height="45" alt="Flask"/><br>Flask</td>
+  </tr>
+  <tr>
+    <td align="center" width="90" colspan="10"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/><br>Docker</td>
   </tr>
 </table>
 
