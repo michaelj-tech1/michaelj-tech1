@@ -26,24 +26,13 @@ I’m **Michael Bowen**, a soon-to-be **Computer Science graduate** and **U.S. M
 ### 🧠 Languages
 <table align="center">
   <tr>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="55" height="55" alt="Python"/><br>Python
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="Java"/><br>Java
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=c" width="45" height="45" alt="C"/><br>C
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=cs" width="45" height="45" alt="C#"/><br>C#
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=javascript" width="45" height="45" alt="JavaScript"/><br>JavaScript
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" height="45" alt="Bash"/><br>Bash
-    </td>
+    <td align="center" width="90"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="55" height="55" alt="Python"/><br>Python</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="Java"/><br>Java</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=c" width="45" height="45" alt="C"/><br>C</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=cs" width="45" height="45" alt="C#"/><br>C#</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=javascript" width="45" height="45" alt="JavaScript"/><br>JavaScript</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" height="45" alt="Bash"/><br>Bash</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" height="45" alt="Flask"/><br>Flask</td>
   </tr>
 </table>
 
@@ -71,7 +60,7 @@ I’m **Michael Bowen**, a soon-to-be **Computer Science graduate** and **U.S. M
     <td align="center" width="90"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Fiddler_Everywhere_logo.png" width="45" height="45" alt="Fiddler"/><br>Fiddler</td>
     <td align="center" width="90"><img src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png" width="45" height="45" alt="Charles Proxy"/><br>Charles Proxy</td>
     <td align="center" width="90"><img src="https://user-images.githubusercontent.com/44777/171915883-2f0e7d16-b3f8-4ce0-a1c7-9118d9ef63e7.png" width="45" height="45" alt="Webmin"/><br>Webmin</td>
-    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" height="45" alt="Flask"/><br>Flask</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/><br>Docker</td>
   </tr>
 </table>
 
