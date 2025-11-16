@@ -7,7 +7,7 @@ I’m **Michael Bowen**, a soon-to-be **Computer Science graduate** and **U.S. M
 ---
 
 ### 🎯 What I Do
-🔹 **Software Development** — Python, C#, Java, C, JavaScript, and systems programming  
+🔹 **Software Development** — Python, C#, Java, C, and systems programming  
 🔹 **Automation & Tools** — Web automation, network utilities, and multithreaded applications  
 🔹 **Infrastructure & Cloud** — Linux systems, NGINX, AWS, and Ansible  
 🔹 **Networking & Security** — VPN configuration, automation, and backend services  
