@@ -1,6 +1,7 @@
-<h2 align="left">Hi 👋 I'm Michael Bowen</h2>
+<h2 align="left">Welcome! I’m Michael Bowen 👋</h2>
 
-I’m a Computer Science student graduating in <strong>May 2026</strong> and a <strong>U.S. Marine Corps veteran</strong>. I work on backend services, automation, and Linux-based infrastructure—usually building small systems that I can deploy, maintain, and iterate on over time.
+I’m a Computer Science student graduating in <strong>May 2026</strong> and a <strong>U.S. Marine Corps veteran</strong>. I enjoy building practical software projects—usually a mix of backend development, automation, and working in Linux environments.
+
 
 ---
 
