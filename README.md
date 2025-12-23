@@ -2,6 +2,7 @@
 
 I’m a Computer Science student graduating in <strong>May 2026</strong> and a <strong>U.S. Marine Corps veteran</strong>. I enjoy building practical software projects—usually a mix of backend development, automation, and working in Linux environments.
 
+<p><strong>Pinned repos below are the best place to start.</strong></p>
 
 ---
 
@@ -34,17 +35,17 @@ I’m a Computer Science student graduating in <strong>May 2026</strong> and a <
 
 ---
 
-<h3>🧠 What I Typically Work On</h3>
+<h3>🧠 What I Work On</h3>
 <ul>
-  <li>Backend services and REST APIs (Flask / FastAPI)</li>
+  <li>Backend and API development (Flask / FastAPI)</li>
   <li>Automation and scripting (Ansible, Bash, Python)</li>
   <li>Linux infrastructure and self-hosted deployments (NGINX, TLS)</li>
-  <li>HPC tooling and access workflows (Slurm, Open OnDemand)</li>
+  <li>HPC access and scheduling workflows (Slurm, Open OnDemand, OIDC)</li>
 </ul>
 
 ---
 
-<h3>📌 Featured Projects</h3>
+<h3>📌 Featured Work</h3>
 <ul>
   <li>
     <strong><a href="https://github.com/michaelj-tech1/personal-vpn">personal-vpn</a></strong><br/>
@@ -55,8 +56,8 @@ I’m a Computer Science student graduating in <strong>May 2026</strong> and a <
     Multithreaded Python tool with a PySide6 GUI for executing a multi-step HTTP workflow via direct requests.
   </li>
   <li>
-    <strong>rest-api-services</strong> <em>(in progress)</em><br/>
-    Flask/FastAPI services deployed behind NGINX with TLS for token workflows and data access.
+    <strong>Private API Services</strong><br/>
+    I also build small Flask/FastAPI services for automation and integrations. Most of that code is private since it’s tied to live systems, but I’m happy to discuss the design and deployment approach.
   </li>
 </ul>
 
