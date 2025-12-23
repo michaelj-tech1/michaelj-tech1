@@ -1,74 +1,58 @@
-<h2 align="left">Welcome! I’m Michael Bowen 👋</h2>
+<!--
+  Hey there — I'm Michael Bowen.
+  Thanks for stopping by and checking out my profile README.
 
-I’m a Computer Science student graduating in <strong>May 2026</strong> and a <strong>U.S. Marine Corps veteran</strong>. I enjoy building practical software projects—usually a mix of backend development, automation, and working in Linux environments.
+  CS student (May 2026) • USMC veteran
+  Interested in backend + infrastructure/DevOps work.
+-->
 
-<p><strong>Pinned repos below are the best place to start.</strong></p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0E7490&height=120&section=header" alt="header"/>
 
----
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&duration=3500&pause=600&color=0E7490&width=700&lines=Welcome!+I%E2%80%99m+Michael+Bowen;Computer+Science+Student+%7C+May+2026;Backend+%26+Infrastructure+%28DevOps%29+Projects" alt="Typing SVG" />
+</a>
 
-<h3>🎓 Education</h3>
-<ul>
-  <li><strong>B.S. in Computer Science</strong>, Missouri Western State University (Expected May 2026)</li>
-</ul>
-
----
-
-<h3>🔧 Tech I Use</h3>
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" style="margin-left:12px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" style="margin-left:12px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" style="margin-left:12px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C" style="margin-left:12px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C#" style="margin-left:12px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux" style="margin-left:12px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="NGINX" style="margin-left:12px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="30" alt="Ansible" style="margin-left:12px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" style="margin-left:12px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="Kubernetes" style="margin-left:12px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" style="margin-left:12px" />
-</div>
-
-<div style="margin-top:10px;">
-  <strong>Also used:</strong> Flask, FastAPI, Spring Boot, OpenTofu, Slurm, Open OnDemand, Playwright, Selenium, Fiddler, Bash, Assembly (x86/AT&amp;T)
-</div>
+### About me
+I’m a Computer Science student graduating in **May 2026** and a **U.S. Marine Corps veteran**. I like building practical projects that involve **backend development**, **automation**, and **Linux-based infrastructure**.  
+**Pinned repos below are the best place to start.**
 
 ---
 
-<h3>🧠 What I Work On</h3>
-<ul>
-  <li>Backend and API development (Flask / FastAPI)</li>
-  <li>Automation and scripting (Ansible, Bash, Python)</li>
-  <li>Linux infrastructure and self-hosted deployments (NGINX, TLS)</li>
-  <li>HPC access and scheduling workflows (Slurm, Open OnDemand, OIDC)</li>
-</ul>
+### Main tools I use
+[![My Skills](https://skillicons.dev/icons?i=python,java,js,cpp,c,cs,linux,bash,nginx,ansible,kubernetes,mysql,git,github,flask,fastapi,spring,selenium,playwright,jenkins)](https://skillicons.dev)
+
+> Also used: Slurm, Open OnDemand (OIDC), OpenTofu, Fiddler, Assembly (x86/AT&T)
 
 ---
 
-<h3>📌 Featured Work</h3>
-<ul>
-  <li>
-    <strong><a href="https://github.com/michaelj-tech1/personal-vpn">personal-vpn</a></strong><br/>
-    OpenVPN infrastructure across 20 global servers with automation for provisioning and updates.
-  </li>
-  <li>
-    <strong><a href="https://github.com/michaelj-tech1/battlenet-registration-automation">workflow-automation-tool</a></strong><br/>
-    Multithreaded Python tool with a PySide6 GUI for executing a multi-step HTTP workflow via direct requests.
-  </li>
-  <li>
-    <strong>Private API Services</strong><br/>
-    I also build small Flask/FastAPI services for automation and integrations. Most of that code is private since it’s tied to live systems, but I’m happy to discuss the design and deployment approach.
-  </li>
-</ul>
+### What I work on
+- Backend services and REST APIs (Flask / FastAPI)
+- Automation and scripting (Ansible, Bash, Python)
+- Linux infrastructure and self-hosted deployments (NGINX, TLS)
+- HPC access and scheduling workflows (Slurm, Open OnDemand)
 
 ---
 
-<h3>🌍 Connect With Me</h3>
-<div align="center" style="display:flex;gap:10px;justify-content:center;">
+### Featured work
+- **personal-vpn** — OpenVPN across 20 global servers, automated provisioning/updates  
+- **workflow automation tool** — multithreaded Python + PySide6, executes a multi-step HTTP workflow  
+- **private API services** — I also build small Flask APIs for automation/integrations; most are private since they’re tied to live systems
+
+---
+
+### Connect with me
+<div align="left">
   <a href="https://www.linkedin.com/in/michael-bowen-287558210/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn"/>
   </a>
-  <a href="mailto:michael.bowen1289@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Email"/>
+  <a href="mailto:michael.bowen1289@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Email"/>
   </a>
 </div>
+
+---
+
+### Hiring / resume
+> If you’d like a copy of my resume, feel free to reach out on LinkedIn or email.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0E7490&height=120&section=footer" alt="footer"/>
