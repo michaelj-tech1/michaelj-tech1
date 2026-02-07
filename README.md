@@ -17,7 +17,7 @@ I’m a Computer Science student graduating in **May 2026** and a **U.S. Marine 
 ---
 
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=python,java,js,c,cpp,cs,aws,linux,bash,git,github,flask,fastapi,spring,nginx,ansible,kubernetes,mysql,selenium,playwright)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,js,c,cpp,cs,aws,linux,bash,git,github,flask,fastapi,spring,nginx,ansible,kubernetes,mysql,selenium,playwright&theme=light)](https://skillicons.dev)
 
 **Other tools:** Slurm, Open OnDemand (OIDC), OpenTofu, Fiddler, TLS, Assembly (x86/AT&T)
 
