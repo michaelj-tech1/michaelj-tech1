@@ -12,7 +12,7 @@
 </a>
 
 ### About me
-I’m a Computer Science student graduating in **May 2026** and a **U.S. Marine Corps veteran**. I enjoy building practical software projects—usually a mix of backend development, automation, and working in Linux environments.
+I’m a Computer Science graduate of **May 2026** and a **U.S. Marine Corps veteran**. I enjoy building practical software projects—usually a mix of backend development, automation, and working in Linux environments.
 
 ---
 
